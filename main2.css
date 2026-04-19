@@ -98,18 +98,18 @@ h2 {
 
 /* FOOTER */
 #footer {
-    background-color: #677862;
+    background-color: #ffffff;
     padding: 20px 0;
 }
 
 .socicons-list a {
-    color: #677862;
+    color: #4a5d4e;
     font-size: 20px;
     transition: 0.3s;
 }
 
 .socicons-list a:hover {
-    color: #6778622;
+    color: #f5f5dc;
 }
 
 /* COPYRIGHT */
