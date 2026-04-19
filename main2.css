@@ -38,7 +38,7 @@ body {
 /* BUTTON */
 .custom-btn {
     background-color: #d2b48c;
-    color: #8a9a5b;
+    color: #ffffff;
     border: none;
     border-radius: 25px;
     padding: 10px 20px;
@@ -75,12 +75,12 @@ body {
 
 /* SECTION TITLES */
 h2 {
-    color: #677862;
+    color: #ffffff;
     font-weight: bold;
 }
 
 .intro {
-    color: #edc9af;
+    color: #ffffff;
 }
 
 /* CONTACT FORM */
