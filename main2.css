@@ -25,8 +25,8 @@ body {
 
 /* HERO */
 .hero {
-    background: linear-gradient(135deg, #2C3E50, #3B4F63);
-    color: #012406;
+    background: linear-gradient(135deg, #677862, #9caf88);
+    color: #ffffff;
     padding: 100px 20px;
 }
 
@@ -37,7 +37,7 @@ body {
 
 /* BUTTON */
 .custom-btn {
-    background-color: #4A90E2;
+    background-color: #677862;
     color: #ffffff;
     border: none;
     border-radius: 25px;
@@ -80,7 +80,7 @@ h2 {
 }
 
 .intro {
-    color: #7B8A8B;
+    color: #09dae9;
 }
 
 /* CONTACT FORM */
