@@ -7,7 +7,7 @@ body {
 
 /* NAVBAR */
 .navbar {
-    background-color: #2C3E50 !important;
+    background-color: #d2b48c !important;
 }
 
 .navbar-brand {
@@ -16,7 +16,7 @@ body {
 }
 
 .nav-link {
-    color: #ffffff !important;
+    color: #9caf88 !important;
 }
 
 .nav-link:hover {
@@ -25,8 +25,8 @@ body {
 
 /* HERO */
 .hero {
-    background: linear-gradient(135deg, #d2b48c, #f2e8cf);
-    color: #ffffff;
+    background: linear-gradient(135deg, #d2b48c, #d2b48c);
+    color: #677862;
     padding: 100px 20px;
 }
 
@@ -65,7 +65,7 @@ body {
 }
 
 .card-title {
-    color: #2C3E50;
+    color: #677862;
     font-weight: bold;
 }
 
@@ -75,12 +75,12 @@ body {
 
 /* SECTION TITLES */
 h2 {
-    color: #2C3E50;
+    color: #677862;
     font-weight: bold;
 }
 
 .intro {
-    color: #09dae9;
+    color: #ffffff;
 }
 
 /* CONTACT FORM */
@@ -92,13 +92,13 @@ h2 {
 }
 
 .form-control:focus {
-    border-color: #4A90E2;
+    border-color: #677862;
     box-shadow: 0 0 5px rgba(74, 144, 226, 0.3);
 }
 
 /* FOOTER */
 #footer {
-    background-color: #2C3E50;
+    background-color: #677862;
     padding: 20px 0;
 }
 
@@ -109,12 +109,12 @@ h2 {
 }
 
 .socicons-list a:hover {
-    color: #4A90E2;
+    color: #6778622;
 }
 
 /* COPYRIGHT */
 .copyright {
-    color: #7B8A8B;
+    color: #ffffff;
 }
 
 /* RESTORE CARD SPACING (DO NOT CHANGE DESIGN) */
