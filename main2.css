@@ -1,6 +1,6 @@
 /* GENERAL */
 body {
-    background-color: #F5F7FA;
+    background-color: #677862;
     color: #2D3436;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -65,7 +65,7 @@ body {
 }
 
 .card-title {
-    color: #677862;
+    color: #ffffff;
     font-weight: bold;
 }
 
