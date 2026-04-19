@@ -37,8 +37,8 @@ body {
 
 /* BUTTON */
 .custom-btn {
-    background-color: #677862;
-    color: #ffffff;
+    background-color: #d2b48c;
+    color: #8a9a5b;
     border: none;
     border-radius: 25px;
     padding: 10px 20px;
@@ -70,7 +70,7 @@ body {
 }
 
 .card-text {
-    color: #ffffff;
+    color: #d2b48c;
 }
 
 /* SECTION TITLES */
@@ -80,7 +80,7 @@ h2 {
 }
 
 .intro {
-    color: #ffffff;
+    color: #d2b48c;
 }
 
 /* CONTACT FORM */
