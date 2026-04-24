@@ -1,13 +1,13 @@
 /* GENERAL */
 body {
-    background-color: #677862;
+    background-color: #ccd5ae;
     color: #2D3436;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 /* NAVBAR */
 .navbar {
-    background-color: #677862 !important;
+    background-color: #ccd5ae !important;
 }
 
 .navbar-brand {
@@ -103,7 +103,7 @@ h2 {
 }
 
 .socicons-list a {
-    color: #4a5d4e;
+    color: #ccd5ae;
     font-size: 20px;
     transition: 0.3s;
 }
