@@ -1,13 +1,13 @@
 /* GENERAL */
 body {
-    background-color: #ccd5ae;
+    background-color: #8a9a5b;
     color: #2D3436;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 /* NAVBAR */
 .navbar {
-    background-color: #ccd5ae !important;
+    background-color: #8a9a5b !important;
 }
 
 .navbar-brand {
@@ -31,7 +31,7 @@ body {
 }
 
 .highlight {
-    color: #8a9a5b;
+    color: #d2b48c;
     font-weight: bold;
 }
 
@@ -103,7 +103,7 @@ h2 {
 }
 
 .socicons-list a {
-    color: #ccd5ae;
+    color: #8a9a5b;
     font-size: 20px;
     transition: 0.3s;
 }
